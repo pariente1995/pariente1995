@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=ff9900&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=ff9933)
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariente1995&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
