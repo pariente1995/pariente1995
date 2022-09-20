@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=ff9900&height=300&section=header&text=SeHyeok　Park☺️&fontSize=90&fontColor=ff9933)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ff9900&height=300&section=header&text=SeHyeok　Park☺️&fontSize=60&fontColor=ff9933)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariente1995&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
